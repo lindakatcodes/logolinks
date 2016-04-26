@@ -1,0 +1,70 @@
+body
+{
+    text-align: center;
+}
+
+#top
+{
+    /* surround with whitespace */
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+#middle .form-control
+{
+    /* center form controls */
+    display: inline-block;
+    width: auto;
+}
+
+.table th
+{
+    background: #bf8040;
+    text-align: center;
+    padding: 0.75rem;
+    color: white;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th 
+{
+  background-color: #b3e6b3;
+}
+
+#bottom
+{
+    text-align: right;
+}
+
+#bottom .btn
+{
+    color: #734d26;
+}
+
+#logalink
+{
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+#logalink #add
+{
+    width: 35%;
+    margin: 0;    
+}
+
+#logalink #describe
+{
+    width: 45%;
+    margin: 0;
+}
+
+#logalink #btnsav
+{
+    width: 15%;
+    margin: 0;
+}
+
+#logalink label
+{
+    text-align: right;
+}
